@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ProvaGama_XP/1.0.0": {
+        "runtime": {
+          "ProvaGama_XP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProvaGama_XP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\u008135\source\repos\ProvaGama_XP\ProvaGama_XP\bin\Debug\net5.0\ProvaGama_XP.exe
+C:\Users\u008135\source\repos\ProvaGama_XP\ProvaGama_XP\bin\Debug\net5.0\ProvaGama_XP.deps.json
+C:\Users\u008135\source\repos\ProvaGama_XP\ProvaGama_XP\bin\Debug\net5.0\ProvaGama_XP.runtimeconfig.json
+C:\Users\u008135\source\repos\ProvaGama_XP\ProvaGama_XP\bin\Debug\net5.0\ProvaGama_XP.runtimeconfig.dev.json
+C:\Users\u008135\source\repos\ProvaGama_XP\ProvaGama_XP\bin\Debug\net5.0\ProvaGama_XP.dll
+C:\Users\u008135\source\repos\ProvaGama_XP\ProvaGama_XP\bin\Debug\net5.0\ref\ProvaGama_XP.dll
+C:\Users\u008135\source\repos\ProvaGama_XP\ProvaGama_XP\bin\Debug\net5.0\ProvaGama_XP.pdb
+C:\Users\u008135\source\repos\ProvaGama_XP\ProvaGama_XP\obj\Debug\net5.0\ProvaGama_XP.csproj.AssemblyReference.cache
+C:\Users\u008135\source\repos\ProvaGama_XP\ProvaGama_XP\obj\Debug\net5.0\ProvaGama_XP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u008135\source\repos\ProvaGama_XP\ProvaGama_XP\obj\Debug\net5.0\ProvaGama_XP.AssemblyInfoInputs.cache
+C:\Users\u008135\source\repos\ProvaGama_XP\ProvaGama_XP\obj\Debug\net5.0\ProvaGama_XP.AssemblyInfo.cs
+C:\Users\u008135\source\repos\ProvaGama_XP\ProvaGama_XP\obj\Debug\net5.0\ProvaGama_XP.csproj.CoreCompileInputs.cache
+C:\Users\u008135\source\repos\ProvaGama_XP\ProvaGama_XP\obj\Debug\net5.0\ProvaGama_XP.dll
+C:\Users\u008135\source\repos\ProvaGama_XP\ProvaGama_XP\obj\Debug\net5.0\ref\ProvaGama_XP.dll
+C:\Users\u008135\source\repos\ProvaGama_XP\ProvaGama_XP\obj\Debug\net5.0\ProvaGama_XP.pdb
+C:\Users\u008135\source\repos\ProvaGama_XP\ProvaGama_XP\obj\Debug\net5.0\ProvaGama_XP.genruntimeconfig.cache
